@@ -1,6 +1,7 @@
 This project focuses on Sentiment Analysis of the IMDB movie review dataset, where reviews are classified as positive or negative. To determine the best accuracy, implement and compare multiple deep learning architectures, including LSTM, GRU, Encoder-Decoder, and Transformer models.
 
 **Dataset**: IMDB Movie Reviews Dataset
+Get the Dataset - https://drive.google.com/file/d/12IBWO0HjGEuCAzmV5GBdqjdl6KTRaC_g/view?usp=drive_link
 Size: 50,000 movie reviews
 Features:
 **X (Input)**: Sequences of tokenized words representing reviews (shape: (50000, 50))
